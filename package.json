@@ -1,0 +1,14 @@
+{
+  "name": "example-bunjs",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.8.2",
+    "bun-types": "latest",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
